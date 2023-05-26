@@ -1,2 +1,7 @@
 # awesome-golang
-Some of the best GoLang resources
+
+Here are some of the best best and helpful GoLang resources.
+
+- [Tour of Go](https://go.dev/tour/welcome/1)
+
+
